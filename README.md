@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aril Ramadani <br> Selamat Datang di Profilku</h1>
+<h1 align="center">Hi 👋, I'm Aril Ramadani <br> Welcome to My Profile</h1>
 <h3 align="center">A Software Engineer Student from Indonesia :indonesia:</h3>
 
 <p align="left">
