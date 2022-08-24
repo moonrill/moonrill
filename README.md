@@ -15,3 +15,6 @@
 
 <h3>Tools & Library : </h3>
 <p align"left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
+
+<h3>:fire: My Stats</h3>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arilramadani24&theme=tokyonight)](https://git.io/streak-stats)
