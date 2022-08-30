@@ -3,12 +3,17 @@
 
 ![](https://komarev.com/ghpvc/?username=arilramadani24&style=flat-square)
 
+<p align="center">
+  <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</p>
+
 <h3>:man_technologist: About Me :</h3>
 
 <h4>I am a Software Engineer Student from Indonesia :indonesia:</h4>
 <ul>
   <li><h4>:school: I studying at SMKN 1 Kota Bekasi</h4></li>
   <li><h4>:headphones: I love listening to music</h4></li>
+  <li><h4>🌱 I'm currently learning <a href="https://nodejs.org/en/" target="_blank">NodeJS</a></h4></li>
 </ul>
 
 <hr>
