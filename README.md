@@ -28,8 +28,15 @@
 
 <hr>
 
-<h3>:fire: My Stats</h3>
+<details> <summary>:fire: My Github Stats</summary>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=arilramadani24&theme=black-ice&dates=1BDDD1)](https://git.io/streak-stats)
+<div>
+<a href="https://github.com/arilramadani24">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilramadani24&theme=aura&layout=compact" />
+</a>
+<a href="https://github.com/arilramadani24">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arilramadani24&show_icons=true&theme=aura" />
+</a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arilramadani24&layout=compact)](https://github.com/arilramadani24/github-readme-stats)
+</details>
