@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/arilramadani24/">Aril Ramadani</a> <br> Welcome to My Profile</h1>
+<h1 align="center">Hi <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.avif" type="image/avif">
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture>, I'm <a href="https://github.com/arilramadani24/">Aril Ramadani</a> <br> Welcome to My Profile</h1>
 
 
 ![](https://komarev.com/ghpvc/?username=arilramadani24&style=flat-square)
@@ -13,7 +17,7 @@
 <ul>
   <li><h4>:school: I studying at SMKN 1 Kota Bekasi</h4></li>
   <li><h4>:headphones: I love listening to music</h4></li>
-  <li><h4>🌱 I'm currently learning <a href="https://nodejs.org/en/" target="_blank">NodeJS</a></h4></li>
+  <li><h4>🌱 I'm currently learning <a href="https://nestjs.com/" target="_blank">NestJS</a></h4></li>
 </ul>
 
 <hr>
@@ -24,7 +28,19 @@
 <hr>
 
 <h3>:hammer_and_wrench: :books: Tools & Library : </h3>
-<p align"left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></p>
+<p align"left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
+  <span>&nbsp;</span>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  </a>
+</p>
 
 <hr>
 
