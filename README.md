@@ -13,7 +13,7 @@
 
 <h3>:man_technologist: About Me :</h3>
 
-<h4>I am a Software Engineer Student from Indonesia :indonesia:</h4>
+<h4>I am a Software Engineer Student from Indonesia :</h4>
 <ul>
   <li><h4>:school: I studying at SMKN 1 Kota Bekasi</h4></li>
   <li><h4>:headphones: I love listening to music</h4></li>
@@ -36,7 +36,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-  <span>&nbsp;</span>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
   </a>
