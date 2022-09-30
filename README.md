@@ -44,7 +44,7 @@
 <hr>
 
 <details> <summary>:fire: My Github Stats</summary>
-
+<br>
 <div>
 <a href="https://github.com/arilramadani24">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arilramadani24&theme=aura&layout=compact" />
