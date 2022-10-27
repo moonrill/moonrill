@@ -4,9 +4,6 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm <a href="https://github.com/arilramadani24/">Aril Ramadani</a> <br> Welcome to My Profile</h1>
 
-
-![](https://komarev.com/ghpvc/?username=arilramadani24&style=flat-square)
-
 <p align="center">
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </p>
