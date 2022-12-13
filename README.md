@@ -1,6 +1,5 @@
 <h1 align="center">Hi <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.avif" type="image/avif">
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture>, I'm <a href="https://github.com/arilramadani24/">Aril Ramadani</a> <br> Welcome to My Profile</h1>
 
