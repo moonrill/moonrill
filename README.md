@@ -1,7 +1,6 @@
-<h1 align="center">Hi <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.avif" type="image/avif">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-</picture>, I'm <a href="https://github.com/arilramadani24/">Aril Ramadani</a> <br> Welcome to My Profile</h1>
+<h1 align="center">Hi 
+  <img src="https://raw.githubusercontent.com/fajaraldev/fajaraldev/master/wave.gif" width="30px">
+, I'm <a href="https://github.com/arilramadani24/">Aril Ramadani</a> <br> Welcome to My Profile</h1>
 
 <p align="center">
   <img height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
