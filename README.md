@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Aril and I'm a Web Developer specially in Backend Developer.</h2>
+<h2 align="center">Hi 👋! My name is Aril and I'm a Backend Developer.</h2>
 
 ###
 
