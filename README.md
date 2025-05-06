@@ -49,7 +49,7 @@ I'm a passionate software developer who enjoys turning complex problems into sim
 
 ###
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ytwun5ue4a543xhudo57va62sq&cover_image=true&theme=default&show_offline=false&background_color=131313&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ytwun5ue4a543xhudo57va62sq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ytwun5ue4a543xhudo57va62sq&cover_image=true&theme=default&show_offline=false&background_color=242938&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ytwun5ue4a543xhudo57va62sq&redirect=true)
 
 ###
 
